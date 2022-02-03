@@ -1,0 +1,92 @@
+2022-02-03 11:41:57,757 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-02-03 11:41:57,783 INFO o.a.j.JMeter: Loading user properties from: C:\Users\abdessalam.rouabha\Java-Binaries\apache-jmeter-5.4.3\bin\user.properties
+2022-02-03 11:41:57,784 INFO o.a.j.JMeter: Loading system properties from: C:\Users\abdessalam.rouabha\Java-Binaries\apache-jmeter-5.4.3\bin\system.properties
+2022-02-03 11:41:57,785 INFO o.a.j.JMeter: Setting JMeter property: jmeter.save.saveservice.output_format=xml
+2022-02-03 11:41:57,790 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: Version 5.4.3
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: java.version=17.0.1
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: os.name=Windows 10
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: os.arch=amd64
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: os.version=10.0
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: java.awt.headless=true
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-02-03 11:41:57,791 INFO o.a.j.JMeter: Available Processors =16
+2022-02-03 11:41:57,800 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-02-03 11:41:57,800 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-02-03 11:41:57,800 INFO o.a.j.JMeter: JMeterHome=C:\Users\abdessalam.rouabha\Java-Binaries\apache-jmeter-5.4.3
+2022-02-03 11:41:57,800 INFO o.a.j.JMeter: user.dir  =C:\Users\abdessalam.rouabha\Desktop\JmeterTest
+2022-02-03 11:41:57,800 INFO o.a.j.JMeter: PWD       =C:\Users\abdessalam.rouabha\Desktop\JmeterTest
+2022-02-03 11:41:57,801 INFO o.a.j.JMeter: IP: 10.220.17.91 Name: CA-LDHJB0J3 FullName: CA-LDHJB0J3.groupinfra.com
+2022-02-03 11:41:57,806 INFO o.a.j.s.FileServer: Default base='C:\Users\abdessalam.rouabha\Desktop\JmeterTest'
+2022-02-03 11:41:57,807 INFO o.a.j.s.FileServer: Set new base='C:\Users\abdessalam.rouabha\Desktop\JmeterTest'
+2022-02-03 11:41:57,938 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-02-03 11:41:57,963 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-02-03 11:41:57,966 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-02-03 11:41:57,968 INFO o.a.j.s.SaveService: Loading file: MildtempertGet.jmx
+2022-02-03 11:41:58,005 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-02-03 11:41:58,005 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-02-03 11:41:58,005 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-02-03 11:41:58,005 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-02-03 11:41:58,005 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-02-03 11:41:58,005 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-02-03 11:41:58,026 INFO o.a.j.JMeter: Creating summariser <summary>
+2022-02-03 11:41:58,031 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2022-02-03 11:41:58,035 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-02-03 11:41:58,035 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2022-02-03 11:41:58,039 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2022-02-03 11:41:58,040 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2022-02-03 11:41:58,102 INFO o.a.j.JMeter: Running test (1643906518102)
+2022-02-03 11:41:58,114 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2022-02-03 11:41:58,114 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Thread Group.
+2022-02-03 11:41:58,114 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2022-02-03 11:41:58,114 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2022-02-03 11:41:58,119 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2022-02-03 11:41:58,119 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2022-02-03 11:41:58,120 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2022-02-03 11:41:58,131 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = CA-LDHJB0J3
+2022-02-03 11:41:58,136 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2022-02-03 11:41:58,137 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-02-03 11:41:58,137 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-02-03 11:41:58,137 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-02-03 11:41:58,137 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-02-03 11:41:58,217 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
+2022-02-03 11:41:58,218 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2022-02-03 11:41:58,224 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2022-02-03 11:41:58,224 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2022-02-03 11:41:58,318 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-3
+2022-02-03 11:41:58,334 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2022-02-03 11:41:58,337 INFO o.a.j.u.SSLManager: KeyStore created OK
+2022-02-03 11:41:58,337 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2022-02-03 11:41:58,417 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-4
+2022-02-03 11:41:58,516 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-5
+2022-02-03 11:41:58,616 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-6
+2022-02-03 11:41:58,718 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-7
+2022-02-03 11:41:58,819 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-8
+2022-02-03 11:41:58,915 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-9
+2022-02-03 11:41:59,015 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-10
+2022-02-03 11:41:59,629 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-4
+2022-02-03 11:41:59,629 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-4
+2022-02-03 11:41:59,749 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2022-02-03 11:41:59,749 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2022-02-03 11:41:59,801 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-5
+2022-02-03 11:41:59,801 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-5
+2022-02-03 11:41:59,872 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-6
+2022-02-03 11:41:59,872 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-6
+2022-02-03 11:41:59,935 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-2
+2022-02-03 11:41:59,935 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
+2022-02-03 11:41:59,964 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-3
+2022-02-03 11:41:59,964 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-3
+2022-02-03 11:42:00,005 INFO o.a.j.r.Summariser: summary +     45 in 00:00:02 =   23.7/s Avg:   284 Min:   166 Max:   805 Err:     0 (0.00%) Active: 4 Started: 10 Finished: 6
+2022-02-03 11:42:00,082 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-7
+2022-02-03 11:42:00,082 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-7
+2022-02-03 11:42:00,118 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-8
+2022-02-03 11:42:00,118 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-8
+2022-02-03 11:42:00,175 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-9
+2022-02-03 11:42:00,175 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-9
+2022-02-03 11:42:00,314 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-10
+2022-02-03 11:42:00,314 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-10
+2022-02-03 11:42:00,315 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2022-02-03 11:42:00,316 INFO o.a.j.r.Summariser: summary +      5 in 00:00:00 =   16.0/s Avg:   208 Min:   158 Max:   289 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10
+2022-02-03 11:42:00,317 INFO o.a.j.r.Summariser: summary =     50 in 00:00:02 =   22.6/s Avg:   276 Min:   158 Max:   805 Err:     0 (0.00%)
